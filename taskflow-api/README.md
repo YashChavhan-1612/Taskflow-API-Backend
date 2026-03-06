@@ -88,7 +88,7 @@ node server.js
 
 Server will start at:
 
-http://localhost:5000
+http://localhost:3400
 
 ---
 
@@ -208,3 +208,4 @@ API endpoints were tested using Postman to verify:
 ## Author
 
 Yash Chavhan : Backend API Development Assignment
+

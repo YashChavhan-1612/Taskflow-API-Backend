@@ -79,7 +79,7 @@ npm install
 
 Create `.env` file in the root directory.
 
-PORT=5000
+PORT=3400
 NODE_ENV=development
 
 ### 5. Start the server
@@ -208,4 +208,5 @@ API endpoints were tested using Postman to verify:
 ## Author
 
 Yash Chavhan : Backend API Development Assignment
+
 
